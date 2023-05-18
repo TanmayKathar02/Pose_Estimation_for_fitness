@@ -2,7 +2,7 @@ Real Time Exercise Estimation using Web cam 💪🏋‍♀️
 
 * Moto :✍️
 
-The main moto of our project is to count biceps curl based on human pose detection.
+The main objective of this project is to design and implement a Convolutional Neural Network (CNN) along with pretrained (MediaPipe) models capable of detecting a person's posture and repetitions accurately
 
 * Installing the depedencies:
 ```
